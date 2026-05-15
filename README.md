@@ -1,8 +1,7 @@
-# ac3-pet-store-qa
+# Pet Store
 
 Projeto de testes automatizados com Selenium para o sistema de cadastro de produtos da Pet Store.
-
-Trabalho desenvolvido para a disciplina de Qualidade de Software - 5 semestre de Analise e Desenvolvimento de Sistemas.
+Trabalho desenvolvido para a disciplina de Quality Assurance.
 
 ## Sobre o projeto
 
@@ -60,4 +59,6 @@ https://colab.research.google.com/github/VitorSantos-CODE/ac3-pet-store-qa/blob/
 
 ## Aluno
 
-Vitor Santos - 5 semestre ADS
+● Giovani Ribeiro Lima RA: 94107
+● Vitor Edmilson Duarte Santos - 104811
+● Pedro Henrique Cervinski Uchoa - 96914
